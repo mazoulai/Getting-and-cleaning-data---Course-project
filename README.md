@@ -1,5 +1,5 @@
 # Getting and cleaningdata - Course project
-This tidy daaset has been obtained using data from the Human Activity Recognition Using Smartphones Dataset, Version 1.0 (see more info below.
+This tidy dataset has been obtained using data from the Human Activity Recognition Using Smartphones Dataset, Version 1.0 (see more info below.
 
 This dataset contains the following files:
 * README.md
