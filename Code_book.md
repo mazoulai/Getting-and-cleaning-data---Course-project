@@ -105,8 +105,8 @@ These signals were used to estimate variables of the feature vector for each pat
 
 The set of variables that were estimated from these signals are: 
 
-mean(): Mean value
-std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 For each of these variables, each observation is the average value of the observations for a given subject and a given activity in the original data set. 
 
