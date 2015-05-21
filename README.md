@@ -4,7 +4,7 @@ This tidy dataset has been obtained using data from the Human Activity Recogniti
 This dataset contains the following files:
 * README.md
 * run_analysis.R (script to obtain the tidy data set out of the Samsung raw data)
-* code_book.md (info on the different variables)
+* Code_book.md (info on the different variables)
 
 ==================================================================
 the Human Activity Recognition Using Smartphones Dataset
